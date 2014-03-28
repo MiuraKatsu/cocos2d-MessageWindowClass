@@ -1,15 +1,14 @@
 //
 //  MessageWindowSprite.h
-//  mmk
 //
-//  Created by n01006 on 2014/01/06.
+//  Created by @miurakatsu on 2014/01/06.
 //
 //
 
 #ifndef mmk_MessageWindowSprite_h
 #define mmk_MessageWindowSprite_h
 
-#include "TapSprite.h"
+#include "cocos2d.h"
 
 #include "unicode/utf.h"
 #include "unicode/ustring.h"
